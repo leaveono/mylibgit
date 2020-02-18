@@ -1,1 +1,6 @@
-t is a distributed version control system. Git is free software.qqqqqq
+t is a distributed version control system. Git is free software.
+git merge
+git branch 
+git checkout
+git branch -d 
+git branch -b 
