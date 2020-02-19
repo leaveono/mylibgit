@@ -9,4 +9,8 @@ Git is a distributed version control system. Git is free software distributed un
 
 git switch -c branch_name
 
+
 bug 修复
+bug 分支 issue-101bug的修改
+
+bug commit
