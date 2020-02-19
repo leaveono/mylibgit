@@ -8,3 +8,5 @@ git branch -b
 Git is a distributed version control system. Git is free software distributed under the GPL.
 
 git switch -c branch_name
+
+bug 修复
