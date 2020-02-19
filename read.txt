@@ -8,3 +8,6 @@ git branch -b
 Git is a distributed version control system. Git is free software distributed under the GPL.
 
 git switch -c branch_name
+
+bug 分支 issue-101bug的修改
+
